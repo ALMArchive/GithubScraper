@@ -1,6 +1,6 @@
 {
   "name": "githubscraper",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "A typescript class that will scrape all repos on github matching a keyword.",
   "main": "index.js",
   "scripts": {
@@ -9,7 +9,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/ALMaclaine/GithubScraper.git"
+    "url": "git+https://github.com/ALMArchive/GithubScraper.git"
   },
   "keywords": [
     "Github",
@@ -18,9 +18,9 @@
   "author": "Alessandro Maclaine",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/ALMaclaine/GithubScraper/issues"
+    "url": "https://github.com/ALMArchive/GithubScraper/issues"
   },
-  "homepage": "https://github.com/ALMaclaine/GithubScraper#readme",
+  "homepage": "https://github.com/ALMArchive/GithubScraper#readme",
   "devDependencies": {
     "@types/jest": "^23.1.6",
     "@types/node": "^10.5.2",
